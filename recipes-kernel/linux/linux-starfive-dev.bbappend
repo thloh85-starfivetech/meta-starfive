@@ -1,6 +1,5 @@
 FORK = "starfive-tech"
 BRANCH = "beaglev"
-hello!!!!fuubar:@:!#$@%$:!@#$
 
 LINUX_VERSION ?= "5.13.0"
 LINUX_VERSION_EXTENSION_append = "-starlight"
