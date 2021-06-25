@@ -13,4 +13,4 @@ SRC_URI_append = " \
 #KBUILD_DEFCONFIG_beaglev-starlight-jh7100 = "beaglev_defconfig"
 KBUILD_DEFCONFIG_starfive-dubhe = "starfive_dubhe_defconfig"
 
-COMPATIBLE_MACHINE = "(starfive_dubhe)"
+COMPATIBLE_MACHINE = "(starfive-dubhe)"
