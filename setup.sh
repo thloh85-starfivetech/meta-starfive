@@ -2,7 +2,7 @@
 # Bootstrapper for buildbot slave
 
 DIR="build"
-MACHINE="unmatched"
+MACHINE="dubhe"
 CONFFILE="conf/auto.conf"
 BITBAKEIMAGE="dubhe-starfive"
 
